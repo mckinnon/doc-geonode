@@ -8,7 +8,7 @@ There are a range of options available to you if you want to change the default 
 Logos and graphics
 ------------------
 
-GeoNode intentionally does not include a large number of graphics files in its interface. This keeps page loading time to a minimum and makes for a more responsive interface. That said, you are free to customize your GeoNode's interface by simply changing the default logo, or by adding your own images and graphics to deliver a GeoNode experience the way you envision int.
+GeoNode intentionally does not include a large number of graphics files in its interface. This keeps page loading time to a minimum and makes for a more responsive interface. That said, you are free to customize your GeoNode's interface by simply changing the default logo, or by adding your own images and graphics to deliver a GeoNode experience the way you envision it.
 
 Your GeoNode project has a directory already set up for storing your own images at :file:`<geonode_custom>/static/img`. You should place any image files that you intend to use for your project in this directory.
 
